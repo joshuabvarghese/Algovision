@@ -42,10 +42,4 @@ Algovision is a web app for visualizing pathfinding and sorting algorithms. Itâ€
 
 
 ---
-### Why Algovision?
-- **Interactive Learning:** Perfect for students and enthusiasts.
-- **Customizable:** Tailor visualizations for experiments.
-- **Portfolio Project:** Demonstrates web development and algorithm visualization skills.
-
----
 
